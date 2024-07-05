@@ -130,6 +130,6 @@ by simple changing '2000' to any time you want (in milliseconds equivalent).
 
 ## Contact
 
-If you want to collaborate with plankton.cash platform or have any questions, please do not hesitate to contact us!
+If you want to collaborate with plankton.cash platform or have any questions, please do not hesitate to contact us on support@plankton.cash or https://t.me/planktoncashsupport_bot!
 
 Happy bumping!
