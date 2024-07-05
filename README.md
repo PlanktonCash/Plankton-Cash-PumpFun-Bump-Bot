@@ -83,7 +83,7 @@ It should return the version of nodejs.
    git clone 'https://github.com/PlanktonCash/Plankton-Cash-PumpFun-Bump-Bot'
    ```
 
-   Else, you can download the repository in a zip here : "https://github.com/PlanktonCash/Plankton-Cash-PumpFun-Bump-Bot"
+   Else, you can download the repository in a zip here : "https://github.com/PlanktonCash/Plankton-Cash-PumpFun-Bump-Bot/archive/refs/heads/main.zip"
 
 6. Setup configuration
 
