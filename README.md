@@ -80,10 +80,10 @@ It should return the version of nodejs.
 5. If you have git installed on your computer you can fetch the content of this repository with the command :
 
    ```
-   git clone 'OUR GITHUB URL'
+   git clone 'https://github.com/PlanktonCash/Plankton-Cash-PumpFun-Bump-Bot'
    ```
 
-   Else, you can download the repository in a zip here : "OUR GITHUB URL"
+   Else, you can download the repository in a zip here : "https://github.com/PlanktonCash/Plankton-Cash-PumpFun-Bump-Bot"
 
 6. Setup configuration
 
