@@ -1,4 +1,4 @@
-# Project Title
+# Plankton Cash PumpFun Bump Bot (Micro buy bot for pump.fun)
 
 This is the pump.fun bot provided by plankton.cash platform.
 
