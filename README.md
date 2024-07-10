@@ -1,4 +1,4 @@
-# Plankton Cash PumpFun Bump Bot (Micro buy bot for pump.fun)
+# Project Title
 
 This is the pump.fun bot provided by plankton.cash platform.
 
@@ -80,10 +80,10 @@ It should return the version of nodejs.
 5. If you have git installed on your computer you can fetch the content of this repository with the command :
 
    ```
-   git clone 'https://github.com/PlanktonCash/Plankton-Cash-PumpFun-Bump-Bot'
+   git clone 'OUR GITHUB URL'
    ```
 
-   Else, you can download the repository in a zip here : "https://github.com/PlanktonCash/Plankton-Cash-PumpFun-Bump-Bot/archive/refs/heads/main.zip"
+   Else, you can download the repository in a zip here : "OUR GITHUB URL"
 
 6. Setup configuration
 
@@ -130,6 +130,6 @@ by simple changing '2000' to any time you want (in milliseconds equivalent).
 
 ## Contact
 
-If you want to collaborate with plankton.cash platform or have any questions, please do not hesitate to contact us on support@plankton.cash or https://t.me/planktoncashsupport_bot!
+If you want to collaborate with plankton.cash platform or have any questions, please do not hesitate to contact us!
 
 Happy bumping!

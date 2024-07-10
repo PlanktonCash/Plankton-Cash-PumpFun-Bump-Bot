@@ -22,7 +22,6 @@ async function sendPumpTransaction() {
   if (response.status === 200) {
     const data = await response.arrayBuffer();
     const tx = VersionedTransaction.deserialize(new Uint8Array(data));
-    console.log(tx);
 
     tx.sign([keypair]);
     const signature = await connection.sendTransaction(tx);
@@ -34,9 +33,12 @@ async function sendPumpTransaction() {
 
 async function main() {
   while (true) {
-    await sendPumpTransaction();
-
-    await new Promise((r) => setTimeout(r, 2000)); // it's in milliseconds
+    try {
+      await sendPumpTransaction();
+    } catch (e) {
+      console.error(`An error occurred: ${e}`);
+    }
+    await new Promise((r) => setTimeout(r, 1000)); // sleep for 1 second
   }
 }
 
